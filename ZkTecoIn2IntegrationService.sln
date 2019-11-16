@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZkTecoIn2IntegrationService", "ZkTecoIn2IntegrationService\ZkTecoIn2IntegrationService.csproj", "{BD08F77C-D653-4BC1-B24A-0455067C8046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{32DCE06A-77C2-414D-8402-6FF9043CF200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD08F77C-D653-4BC1-B24A-0455067C8046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD08F77C-D653-4BC1-B24A-0455067C8046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD08F77C-D653-4BC1-B24A-0455067C8046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD08F77C-D653-4BC1-B24A-0455067C8046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DCE06A-77C2-414D-8402-6FF9043CF200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DCE06A-77C2-414D-8402-6FF9043CF200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DCE06A-77C2-414D-8402-6FF9043CF200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DCE06A-77C2-414D-8402-6FF9043CF200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3541EEF8-2A75-40FE-AF5D-6DDC5571E609}
+	EndGlobalSection
+EndGlobal
